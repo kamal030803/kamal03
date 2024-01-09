@@ -11,7 +11,7 @@ import {SiPostman} from 'react-icons/si'
 import {DiGit} from 'react-icons/di'
 import {GrMysql} from 'react-icons/gr'
 import { FaS } from 'react-icons/fa'
-import { SiC, SiCpp, SiPython, SiTensorflow } from 'react-icons/si'
+import { SiC, SiCplusplus, SiPython, SiTensorflow } from 'react-icons/si'
 // import {SiMui} from 'react-icons/si'
 
 
@@ -35,7 +35,7 @@ const Experience = () => {
               
             </article>
             <article className='experience__details'>
-              <SiCpp className='experience__details__icons'/>
+              <SiCplusplus className='experience__details__icons'/>
               <div>
                 <h4>C++</h4>
                 <small className='text-light'>Experienced</small>
