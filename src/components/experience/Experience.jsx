@@ -10,7 +10,7 @@ import {SiMongodb} from 'react-icons/si'
 import {SiPostman} from 'react-icons/si'
 import {DiGit} from 'react-icons/di'
 import {GrMysql} from 'react-icons/gr'
-import { SiC, SiCplusplus, SiPython, SiTensorflow, SiSpoj } from 'react-icons/si'
+import { SiC, SiCplusplus, SiPython, SiTensorflow, SiStripe } from 'react-icons/si'
 
 
 
@@ -163,7 +163,7 @@ const Experience = () => {
               
             </article>
             <article className='experience__details'>
-              <SiSpoj className='experience__details__icons'/>
+              <SiStripe className='experience__details__icons'/>
               <div>
                 <h4>Sanity</h4>
                 <small className='text-light'>Experienced</small>
